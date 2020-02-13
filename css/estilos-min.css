@@ -39,6 +39,8 @@ h6 { font-size: 14px; }
 
 .tm-titlecomparebold { color: #975454; font-size: 12px; font-weight: 700; margin-bottom: 0px; }
 
+.tm-titlefooter { font-size: 12; text-transform: uppercase; color: white; margin-bottom: 40px; }
+
 .tm-btn { background-color: #969696; padding: 10px; color: white; font-size: 18px; font-weight: 600; font-family: "Open Sans"; margin: 10px 0; display: -webkit-box; display: flex; align-content: center; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 1000px; border: none; width: 100%; box-shadow: none; }
 
 .tm-btn img { margin-left: 20px; }
@@ -51,8 +53,14 @@ h6 { font-size: 14px; }
 
 .tm-btnlink { color: #969696; padding: 12px; font-size: 16px; font-weight: 600; font-family: "Open Sans"; margin: 10px 0; }
 
+.tm-btnlinkfooter { color: #999; margin: 10px 0; display: block; font-size: 10px; font-weight: 400; font-family: "Open Sans"; text-decoration: none; }
+
 .tm-grid-artimage { background-color: lightgray; height: 205px; position: relative; width: 100%; }
 
 .tm-grid-artimage .tm-grid-artibadge { position: absolute; top: 0; right: 0; width: 35px; height: 35px; background-color: #E66422; font-size: 11px; font-weight: 700; display: -webkit-box; display: flex; align-content: center; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; color: white; }
 
-body { font-family: "Open Sans"; font-weight: 400; margin: 0 auto; padding: 0; font-size: 16px; }
+footer { background-color: #161D26; padding: 100px 0; }
+
+footer ul { margin: 0; padding: 0; }
+
+body { font-family: "Open Sans"; font-weight: 400; margin: 0 auto; padding: 0; font-size: 16px; overflow-x: hidden; }
