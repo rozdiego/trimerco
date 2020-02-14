@@ -143,6 +143,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/css/sass/organisms/footer.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/sass/organisms/footer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/css/sass/organisms/grid-shop.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -152,6 +165,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/css/sass/organisms/grid-shop.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/css/sass/organisms/news.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/sass/organisms/news.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -222,6 +248,17 @@
 		"iS": 2187,
 		"oA": 0,
 		"oAP": "/images/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/logofooter.png": {
+		"ft": 32768,
+		"iS": 2161,
+		"oA": 0,
+		"oAP": "/images/logofooter.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

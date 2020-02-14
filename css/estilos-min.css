@@ -27,6 +27,8 @@ h5 { font-size: 16px; }
 
 h6 { font-size: 14px; }
 
+p { font-size: 16px; margin: 0; padding: 0; }
+
 .tm-titlesection { font-size: 18px; color: #E66422; display: block; font-weight: 700; margin-bottom: 40px; }
 
 .tm-titleproduct { color: #464646; margin-bottom: 0px; }
@@ -39,6 +41,10 @@ h6 { font-size: 14px; }
 
 .tm-titlecomparebold { color: #975454; font-size: 12px; font-weight: 700; margin-bottom: 0px; }
 
+.tm-titlenews { color: white; font-size: 22px; font-weight: 300; text-transform: uppercase; text-align: center; width: 100%; }
+
+.tm-titlenews p { font-size: 12px; text-transform: initial; margin: 10px 0; color: #6F6F6F; }
+
 .tm-titlefooter { font-size: 12; text-transform: uppercase; color: white; margin-bottom: 40px; }
 
 .tm-btn { background-color: #969696; padding: 10px; color: white; font-size: 18px; font-weight: 600; font-family: "Open Sans"; margin: 10px 0; display: -webkit-box; display: flex; align-content: center; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; border-radius: 1000px; border: none; width: 100%; box-shadow: none; }
@@ -49,15 +55,19 @@ h6 { font-size: 14px; }
 
 .tm-btn-principal:hover { background-color: rgba(230, 100, 34, 0.95); }
 
-.tm-btn-outlinesecond { color: #E66422; border: 1px solid #E66422; background-color: #FFF; text-transform: uppercase; }
+.tm-btn-outlinesecond { color: white; font-size: 14px; border: 1px solid white; background-color: transparent; text-transform: uppercase; border-radius: 0px; }
 
 .tm-btnlink { color: #969696; padding: 12px; font-size: 16px; font-weight: 600; font-family: "Open Sans"; margin: 10px 0; }
 
 .tm-btnlinkfooter { color: #999; margin: 10px 0; display: block; font-size: 10px; font-weight: 400; font-family: "Open Sans"; text-decoration: none; }
 
-.tm-grid-artimage { background-color: lightgray; height: 205px; position: relative; width: 100%; }
+.tm-grid-shop { margin: 80px 0; }
 
-.tm-grid-artimage .tm-grid-artibadge { position: absolute; top: 0; right: 0; width: 35px; height: 35px; background-color: #E66422; font-size: 11px; font-weight: 700; display: -webkit-box; display: flex; align-content: center; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; color: white; }
+.tm-grid-shop .tm-grid-artimage { background-color: lightgray; height: 205px; position: relative; width: 100%; }
+
+.tm-grid-shop .tm-grid-artimage .tm-grid-artibadge { position: absolute; top: 0; right: 0; width: 35px; height: 35px; background-color: #E66422; font-size: 11px; font-weight: 700; display: -webkit-box; display: flex; align-content: center; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; color: white; }
+
+.tm-newsletter { background-color: #17171E; padding: 100px 0; }
 
 footer { background-color: #161D26; padding: 100px 0; }
 
