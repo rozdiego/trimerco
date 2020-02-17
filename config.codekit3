@@ -39,6 +39,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/css/font-awesome.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/font-awesome-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/sass/atoms/buttons.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -182,6 +192,32 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/css/sass/organisms/slide.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/sass/organisms/slide.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/css/sass/organisms/sould.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/sass/organisms/sould.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/css/sass/pages/index.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -221,6 +257,111 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/fonts/fontawesome-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/fontawesome-webfont.eot",
+		"oF": 0
+		},
+	"/fonts/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/fonts/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/fonts/fontawesome-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"/fonts/fontawesome-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"/fonts/fontawesome-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/fontawesome-webfont.woff2",
+		"oF": 0
+		},
+	"/fonts/FontAwesome.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/FontAwesome.otf",
+		"oF": 0
+		},
+	"/images/banner1.jpg": {
+		"ft": 16384,
+		"iS": 754050,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/banner1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/categories1.jpg": {
+		"ft": 16384,
+		"iS": 72578,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/categories1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/categories2.jpg": {
+		"ft": 16384,
+		"iS": 50665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/categories2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/categories3.jpg": {
+		"ft": 16384,
+		"iS": 109666,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/categories3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/categories4.jpg": {
+		"ft": 16384,
+		"iS": 66702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/categories4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/favicon.png": {
 		"ft": 32768,
 		"iS": 1768,
@@ -259,6 +400,28 @@
 		"iS": 2161,
 		"oA": 0,
 		"oAP": "/images/logofooter.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/Logonav.png": {
+		"ft": 32768,
+		"iS": 2558,
+		"oA": 0,
+		"oAP": "/images/Logonav.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/navbg.png": {
+		"ft": 32768,
+		"iS": 4098,
+		"oA": 0,
+		"oAP": "/images/navbg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

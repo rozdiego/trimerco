@@ -1,0 +1,124 @@
+.tm-header
+    .tm-bgdar
+        background-image: url(../images/navbg.png) 
+        background-repeat: repeat-x
+        background-position: center bottom
+        height: 165px     
+    .navbar 
+        margin-top: 45px
+        .navbar-brand
+            margin-right: 120px
+
+        .navbar-nav
+            li
+                a
+                    font-size: 12px
+                    font-weight: 700
+                    text-transform: uppercase
+                    margin-right: 50px
+
+                &:last-child
+                    a
+                        margin-right: 0px
+
+        .tm-icons
+            a
+                font-size: 28px
+                position: relative
+                i
+                    color: white
+                    font-size: 28px
+
+                .tm-notf
+                    background-color: $colors1
+                    color: white
+                    padding: 5px
+                    font-size: 9px
+                    display: flex
+                    align-content: center
+                    align-items: center
+                    justify-content: center
+                    position: absolute
+                    top: 0
+                    left: 0
+                    border-radius: 5px
+
+
+    .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link
+        font-size: 16px
+    
+
+
+.tm-topheader
+    background-color: rgba(0, 0, 0, 0.9)
+    padding: 12px
+    position: fixed
+    z-index: 99999
+    width: 100%
+    border-bottom: 2px solid rgba(255, 255, 255, 0.5)
+
+    .tm-icons-top, .tm-menu-top 
+        display: flex
+        align-content: center
+        align-items: center
+
+        li
+            margin-right: 20px
+
+            a
+                color: white
+                text-decoration: none
+                font-size: 18px
+
+    .tm-menu-top
+        justify-content: end
+        li
+
+            a
+                font-size: 14px
+
+            .dropdown-menu
+                a
+                    color: black
+
+
+
+.tm-navcategories
+    margin-bottom: 60px
+    .card
+        border: none
+        margin: 5px 0
+
+        h2
+            display: flex
+            align-items: center
+            align-content: center
+            cursor: pointer
+            font-size: 18px
+            font-weight: 400
+            color: $colors1
+            justify-content: space-between
+        .card-header
+            background-color: transparent
+            padding: 10px 0px
+            border-bottom: 1px solid lightgray
+            margin: 5px 0
+            .btn-link
+                padding: 0
+
+
+        .card-body
+            ul
+                margin: 0
+                padding: 0
+
+                li
+                    margin: 10px 0
+                    padding: 10px 0
+
+                    a
+                        color: $colors1
+
+
+ 
+            
