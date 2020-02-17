@@ -362,6 +362,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/euro.png": {
+		"ft": 32768,
+		"iS": 2239,
+		"oA": 0,
+		"oAP": "/images/euro.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/exito.png": {
+		"ft": 32768,
+		"iS": 1683,
+		"oA": 0,
+		"oAP": "/images/exito.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/favicon.png": {
 		"ft": 32768,
 		"iS": 1768,
@@ -378,6 +400,28 @@
 		"iS": 392,
 		"oA": 0,
 		"oAP": "/images/iconbutton1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/jumbo.png": {
+		"ft": 32768,
+		"iS": 3453,
+		"oA": 0,
+		"oAP": "/images/jumbo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/justo.png": {
+		"ft": 32768,
+		"iS": 6941,
+		"oA": 0,
+		"oAP": "/images/justo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -411,6 +455,50 @@
 		"iS": 2558,
 		"oA": 0,
 		"oAP": "/images/Logonav.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/logotop.png": {
+		"ft": 32768,
+		"iS": 1739,
+		"oA": 0,
+		"oAP": "/images/logotop.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/merque.png": {
+		"ft": 32768,
+		"iS": 2605,
+		"oA": 0,
+		"oAP": "/images/merque.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/Merqueo.png": {
+		"ft": 32768,
+		"iS": 1471,
+		"oA": 0,
+		"oAP": "/images/Merqueo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/metro.png": {
+		"ft": 32768,
+		"iS": 1177,
+		"oA": 0,
+		"oAP": "/images/metro.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

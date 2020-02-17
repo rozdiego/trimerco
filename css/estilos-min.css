@@ -79,7 +79,7 @@ p { font-size: 16px; margin: 0; padding: 0; }
 
 .tm-header .navbar-dark .navbar-nav .active > .nav-link, .tm-header .navbar-dark .navbar-nav .nav-link.active, .tm-header .navbar-dark .navbar-nav .nav-link.show, .tm-header .navbar-dark .navbar-nav .show > .nav-link { font-size: 16px; }
 
-.tm-topheader { background-color: rgba(0, 0, 0, 0.9); padding: 12px; position: fixed; z-index: 99999; width: 100%; border-bottom: 2px solid rgba(255, 255, 255, 0.5); }
+.tm-topheader { background-color: rgba(0, 0, 0, 0.9); padding: 12px; position: fixed; z-index: 88888; width: 100%; border-bottom: 2px solid rgba(255, 255, 255, 0.5); }
 
 .tm-topheader .tm-icons-top, .tm-topheader .tm-menu-top { display: -webkit-box; display: flex; align-content: center; -webkit-box-align: center; align-items: center; }
 
@@ -148,3 +148,39 @@ footer { background-color: #161D26; padding: 100px 0; }
 footer ul { margin: 0; padding: 0; }
 
 body { font-family: "Open Sans"; font-weight: 400; margin: 0 auto; padding: 0; font-size: 16px; overflow-x: hidden; }
+
+.tm-topsection { position: fixed; z-index: 99999; background-color: black; top: 0; width: 100%; padding: 10px 30px 0px 30px; text-align: center; }
+
+.tm-topsection .tm-close { position: absolute; }
+
+.tm-topsection .tm-topsectionitem { position: relative; }
+
+.tm-topsection .tm-topsectionitem img { width: 60px; height: 60px; }
+
+.tm-topsection .tm-topsectionitem .tm-dcto { background-color: transparent; position: absolute; display: -webkit-box; display: flex; align-content: center; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; top: 0; right: 0; width: 30px; height: 30px; border: 1px solid white; color: white; font-size: 12px; }
+
+.tm-topsection .tm-topsectionitem p { font-size: 10px; color: white; font-weight: 700; margin: 6px 0; }
+
+.tm-topsection .tm-topsectionitem h6 { color: white; font-weight: 600; font-size: 18px; margin: 6px 0; }
+
+.tm-topsection .active { border: 1px solid #E66422; padding-bottom: 0px; }
+
+.tm-topsection .active .tm-dcto { background-color: #E66422; border: none; color: white; }
+
+.tm-topsection .active h6 { background-color: #E66422; padding: 10px 0px; margin: 0; }
+
+.tm-topsection .tm-listview { position: relative; }
+
+.tm-topsection .tm-listview h4 { font-weight: 700; font-size: 18px; color: white; margin: 0; padding: 0; text-align: left; }
+
+.tm-topsection .tm-listview a { font-weight: 700; font-size: 12px; color: white; text-align: right; }
+
+.tm-topsection .tm-listview .tm-listviewprice { background-color: #E66422; padding: 10px 5px; }
+
+.tm-topsection .tm-listview .tm-listviewprice h2 { color: white; font-weight: 700; font-size: 25px; }
+
+.tm-topsection .tm-listview .tm-listviewprod { margin: 20px 0; }
+
+.tm-topsection .tm-listview .tm-listviewprod h4 { font-weight: 400; font-size: 18px; color: #959595; text-align: left; }
+
+.tm-topsection .tm-listview .tm-listviewprod h2 { color: #959595; font-weight: 400; font-size: 22px; text-align: right; }
