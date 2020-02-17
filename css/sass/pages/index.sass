@@ -18,56 +18,58 @@ body
     .tm-close
         position: absolute
 
-    .tm-topsectionitem
-        position: relative
+.tm-topsectionitem
+    position: relative
+    text-align: center
 
 
 
-        img
-            width: 60px
-            height: 60px
+    img
+        width: 60px
+        height: 60px
 
-        .tm-dcto
-            background-color: transparent
-            position: absolute
-            display: flex
-            align-content: center
-            align-items: center
-            justify-content: center
-            top: 0
-            right: 0
-            width: 30px
-            height: 30px
-            border: 1px solid white
-            color: white
-            font-size: 12px
+    .tm-dcto
+        background-color: transparent
+        position: absolute
+        display: flex
+        align-content: center
+        align-items: center
+        justify-content: center
+        top: 0
+        right: 0
+        width: 30px
+        height: 30px
+        border: 1px solid white
+        color: white
+        font-size: 12px
 
-        p
-            font-size: 10px 
-            color: white
-            font-weight: 700
-            margin: 6px 0
+    p
+        font-size: 10px 
+        color: white
+        font-weight: 700
+        margin: 6px 0
 
-        h6
-            color: white
-            font-weight: 600
-            font-size: 18px
-            margin: 6px 0
+    h6
+        color: white
+        font-weight: 600
+        font-size: 18px
+        margin: 6px 0
 
-    .active
-        border: 1px solid $colors1
-        padding-bottom: 0px
+.tm-topsectionitem-active
+    border: 1px solid $colors1
+    padding-bottom: 0px
+    
+
+    .tm-dcto
+        background-color: $colors1
+        border: none
+        color: white
+
+    h6
+        background-color: $colors1
+        padding:  10px 0px
+        margin: 0
         
-
-        .tm-dcto
-            background-color: $colors1
-            border: none
-            color: white
-
-        h6
-            background-color: $colors1
-            padding:  10px 0px
-            margin: 0
 
     .tm-listview
         position: relative
