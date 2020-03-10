@@ -153,6 +153,8 @@ p { font-size: 16px; margin: 0; padding: 0; }
 
 .tm-grid-shopint .tm-topsectionitem-active h6 p { font-weight: 300; }
 
+.sectioncompare { position: absolute; z-index: 9999; width: 100%; display: block; }
+
 .tm-newsletter { background-color: #17171E; padding: 100px 0; }
 
 .tm-compare { padding: 100px 0; background-color: #f7f7f7; }
@@ -210,3 +212,16 @@ body { font-family: "Open Sans"; font-weight: 400; margin: 0 auto; padding: 0; f
 .tm-topsectionitem-active .tm-listview .tm-listviewprod h4 { font-weight: 400; font-size: 18px; color: #959595; text-align: left; }
 
 .tm-topsectionitem-active .tm-listview .tm-listviewprod h2 { color: #959595; font-weight: 400; font-size: 22px; text-align: right; }
+
+@media only screen and (max-width: 400px) { .tm-header .tm-bgdar { height: auto; position: relative; margin-top: 0px; background-size: cover; background-position: top; padding: 20px 10px; }
+  .tm-header .tm-bgdar .navbar-brand { margin-right: 0; }
+  .sectioncompare { position: relative; }
+  .tm-topheader { position: relative; padding: 80px 15px 40px 15px; text-align: center; }
+  .tm-topheader .tm-menu-top, .tm-topheader .tm-icons-top { -webkit-box-pack: center; justify-content: center; margin: 10px 0; }
+  .tm-grid-shop { margin: 40px 0; }
+  .tm-compare { padding: 40px 0; }
+  .tm-newsletter { padding: 40px 0; }
+  .tm-footer { padding: 40px 0; }
+  .tm-footer img { margin-bottom: 20px; text-align: center; }
+  .tm-footer .tm-titlefooter { margin-bottom: 10px; }
+  .tm-footer ul { margin-bottom: 20px; } }

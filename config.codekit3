@@ -39,6 +39,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/css/font-awesome-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/font-awesome-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/font-awesome.css": {
 		"aP": 1,
 		"bl": 0,
@@ -257,12 +267,44 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/fonts/fontawesome-webfont.eot": {
+	"/fonts/.fontawesome-webfont.eot.icloud": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/fonts/fontawesome-webfont.eot",
+		"oAP": "/fonts/.fontawesome-webfont.eot.icloud",
+		"oF": 0
+		},
+	"/fonts/.fontawesome-webfont.ttf.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/.fontawesome-webfont.ttf.icloud",
+		"oF": 0
+		},
+	"/fonts/.fontawesome-webfont.woff.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/.fontawesome-webfont.woff.icloud",
+		"oF": 0
+		},
+	"/fonts/.fontawesome-webfont.woff2.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/.fontawesome-webfont.woff2.icloud",
+		"oF": 0
+		},
+	"/fonts/.FontAwesome.otf.icloud": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/.FontAwesome.otf.icloud",
 		"oF": 0
 		},
 	"/fonts/fontawesome-webfont.svg": {
@@ -274,38 +316,6 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
-		},
-	"/fonts/fontawesome-webfont.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/fonts/fontawesome-webfont.ttf",
-		"oF": 0
-		},
-	"/fonts/fontawesome-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/fonts/fontawesome-webfont.woff",
-		"oF": 0
-		},
-	"/fonts/fontawesome-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/fonts/fontawesome-webfont.woff2",
-		"oF": 0
-		},
-	"/fonts/FontAwesome.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/fonts/FontAwesome.otf",
-		"oF": 0
 		},
 	"/images/banner1.jpg": {
 		"ft": 16384,
